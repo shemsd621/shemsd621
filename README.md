@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I’m Shemaya Sandanayaka</h1>
+<br>
 - 🌱 I’m a Software Engineering Undergraduate
 - 📫 How to reach me shemaya.oshi26@gmail.com
 
