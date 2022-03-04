@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I’m Shemaya Sandanayaka</h1>
 <br>
-- 🌱 I’m a Software Engineering Undergraduate
-- 📫 How to reach me shemaya.oshi26@gmail.com
+<p>🌱 I’m a Software Engineering Undergraduate</p>
+<p>📫 How to reach me shemaya.oshi26@gmail.com</p>
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shemsd621)](https://github.com/ryo-ma/github-profile-trophy)
 
