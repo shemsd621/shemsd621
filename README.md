@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @shemsd621
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<h1 align="center">👋 Hi, I’m Shemaya Sandanayaka</h1>
+- 🌱 I’m a Software Engineering Undergraduate
 - 📫 How to reach me shemaya.oshi26@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shemsd621)](https://github.com/ryo-ma/github-profile-trophy)
