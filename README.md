@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Shemaya Sandanayaka</h1>
+<h1 align="center">👋 Hi, I’m Oshani Sandanayaka</h1>
 <br>
 <p>🌱 I’m a Software Engineering Undergraduate</p>
 <p>📫 How to reach me shemaya.oshi26@gmail.com</p>
