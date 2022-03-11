@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Oshani Sandanayaka</h1>
 <br>
-<p>🌱 I’m a Software Engineering Undergraduate interested in Full Stack and Blockchain development</p>
+<p>🌱 I’m a Software Engineering Undergraduate interested in Full Stack development and Blockchain development</p>
 <p>📫 How to reach me shemaya.oshi26@gmail.com</p>
 <br>
 
