@@ -8,6 +8,8 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shemsd621&count_private=true&theme=tokyonight&showicons=true)]()
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shemsd621&show_icons=true&locale=en&layout=compact" alt="shemsd621" /></p>
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shemsd621&langs_count=5&theme=tokyonight)]()
 
 <!---
