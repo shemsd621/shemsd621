@@ -1,12 +1,16 @@
 <h1 align="center">👋 Hi, I’m Oshani Sandanayaka</h1>
 <br>
-<p>🌱 I’m a Software Engineering Undergraduate interested in Full Stack development and Blockchain development</p>
+<p>🌱 I’m a Software Engineering Undergraduate</p>
 <p>📫 How to reach me shemaya.oshi26@gmail.com</p>
 <br>
 
+## Interests
+- Full stack development
+- Blockchain development
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=shemsd621&label=Profile%20views&color=0e75b6&style=flat" alt="shemsd621" /> 
- </p>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shemsd621)](https://github.com/ryo-ma/github-profile-trophy)
 
