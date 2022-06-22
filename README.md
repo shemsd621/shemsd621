@@ -11,7 +11,7 @@
 - Full stack development
 - Blockchain development
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shemsd621)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shemsd621&theme=blue-green)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shemsd621&show_icons=true&theme=blue-green" alt="shemsd621" /></p>
 
