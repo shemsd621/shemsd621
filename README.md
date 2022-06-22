@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shemsd621&show_icons=true&locale=en&layout=compact" alt="shemsd621" /></p>
 
-<p>https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shemsd621&theme=vue</p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shemsd621&theme=vue"  alt="shemsd621" /></p>
 
 <!---
 shemsd621/shemsd621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
