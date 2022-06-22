@@ -11,11 +11,11 @@
 - Full stack development
 - Blockchain development
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shemsd621&theme=blue-green)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shemsd621)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shemsd621&show_icons=true&theme=blue-green" alt="shemsd621" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shemsd621&show_icons=true&layout=compact" alt="shemsd621" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shemsd621&show_icons=true&locale=en&theme=blue-green" alt="shemsd621" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shemsd621&show_icons=true&locale=en&layout=compact" alt="shemsd621" /></p>
 
 <!---
 shemsd621/shemsd621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
