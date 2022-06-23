@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I’m Oshani Shemaya Sandanayaka</h1>
-<br>
-<p>🌱 I’m a passionate Software Engineering Undergraduate</p>
-<p>📫 How to reach me shemaya.oshi26@gmail.com</p>
-<br>
+
+- 🌱 I’m a passionate Software Engineering Undergraduate
+
+- 📫 How to reach me **shemaya.oshi26@gmail.com**
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=shemsd621&label=Profile%20views&color=0e75b6&style=flat" alt="shemsd621" /> 
 </p>
