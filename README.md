@@ -6,7 +6,6 @@
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=shemsd621&label=Profile%20views&color=0e75b6&style=flat" alt="shemsd621" /> 
-<img src="https://img.shields.io/github/watchers/shemsd621/shemsd621?style=social" alt="shemsd621" />
 </p>
 
 ## Interests 
