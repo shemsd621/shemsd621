@@ -5,7 +5,7 @@
 - 📫 How to reach me **shemaya.oshi26@gmail.com**
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=shemsd621&label=Profile%20views&color=0e75b6&style=flat" alt="shemsd621" /> 
+<img src="https://komarev.com/ghpvc/?username=shemsd621&label=Profile%20views&color=0e75b6&style=flat&column=7" alt="shemsd621" /> 
 </p>
 
 ## Interests 
