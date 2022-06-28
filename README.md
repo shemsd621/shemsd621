@@ -5,14 +5,14 @@
 - 📫 How to reach me **shemaya.oshi26@gmail.com**
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=shemsd621&label=Profile%20views&color=0e75b6&style=flat&column=7" alt="shemsd621" /> 
+<img src="https://komarev.com/ghpvc/?username=shemsd621&label=Profile%20views&color=0e75b6&style=flat" alt="shemsd621" /> 
 </p>
 
 ## Interests 
 - Full stack development
 - Blockchain development
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shemsd621)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shemsd621&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shemsd621&show_icons=true&layout=compact" alt="shemsd621" /></p>
 
