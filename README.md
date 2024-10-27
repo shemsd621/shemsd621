@@ -10,7 +10,6 @@
 
 ## Interests 
 - Full stack development
-- Blockchain development
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shemsd621&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
