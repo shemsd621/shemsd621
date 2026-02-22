@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I’m Oshani Shemaya Sandanayaka</h1>
+<h1 align="center">👋 Hi, I’m Shemaya Sandanayaka</h1>
 
-- 🌱 I’m a passionate Software Engineering Undergraduate
+- 🌱 I’m a passionate Quality Assurance Engineer
 
-- 📫 How to reach me **shemaya.oshi26@gmail.com**
+- 📫 How to reach me **sand.shem26@gmail.com**
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=shemsd621&label=Profile%20views&color=0e75b6&style=flat" alt="shemsd621" /> 
