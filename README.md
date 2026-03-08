@@ -13,7 +13,7 @@
 - Test Strategy
 - Test Automation
 
-[![trophy](https://github-readme-stats-eight-theta.vercel.app/api?username=shemsd621&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-readme-stats-eight-theta.vercel.app/api?username=shemsd621&count_private=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
